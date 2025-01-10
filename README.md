@@ -13,7 +13,7 @@ The **Make It Easy** is focused on essential part of delivering , marketing and 
 
 Our application provides these features ; Creating and managing your own shop in online , Trading system , Real-time check by live streams , Discount Notification , Different Languages , 7/24 Technical Support , Cancel anytime and Refund procedure protection by government , Chat system with other producers , Rate system , Customizable interface. 
 
-This is a teamwork project and we have developed this project by taking this serious even if it has been the Introduction to Software Engineering course. 
+This is a teamwork project and we have developed this project by taking this serious even if it has been the Introduction to Software Engineering course.
 
 [Click here for the pdf file explaining our project in more detail.](https://github.com/YunuSezer/Calendar-App/blob/main/calender_reminder_app.pdf)
 
